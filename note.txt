@@ -1,0 +1,6 @@
+1. Create flutter project
+2. Create folder controller, model, route, service, view
+3. add Library
+    get: ^4.6.1
+    flutter_snake_navigationbar: ^0.6.1
+4. app_page.dart, app_route.dart
